@@ -22,13 +22,13 @@ A comprehensive solution to detect and filter hate speech using a trained machin
 ## Screenshots
 
 ### Flask API
-![Flask API Example](server/flask_ui.png)
+![Flask API Example](server/server.png)
 
 ### React Web Interface
-![React Web Interface](images/react_ui.png)
+![React Web Interface](ui/screenshot.jpg)
 
 ### Browser Extension
-![Browser Extension Example](images/browser_demo.png)
+![Browser Extension Example](ui/screenshot2.jpg)
 
 ---
 
